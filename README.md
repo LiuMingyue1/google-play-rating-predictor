@@ -17,3 +17,6 @@ This project predicts whether a mobile app will be highly rated (Rating ≥ 4.5)
 cd streamlit_app/
 pip install -r ../requirements.txt
 streamlit run streamlit_app.py
+
+## 🖼️ Screenshot
+![Predictor Page](./image.png)
